@@ -1,0 +1,14 @@
+{
+  "name": "front-back-communication",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbykovsky/front-back-communication.git"
+  },
+  "dependencies": {
+    "express": "4.18.1",
+    "nodemon": "2.0.16"
+  }
+}
